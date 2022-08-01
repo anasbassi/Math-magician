@@ -41,7 +41,7 @@ $ git clone(<https://github.com/anasbassi/Math-magician>)
 - Twitter: [@anasabu92568449](https://twitter.com/anasabu92568449)
 - LinkedIn: [Anas Abubakar](https://linkedin.com/in/anas-abubakar-7b352722b)
 
-## :handshake: Contributing
+## :handshake: Contributions
 
 Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/anasbassi/todo-list/issues).
 
