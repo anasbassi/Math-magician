@@ -21,7 +21,7 @@ const Calculator = () => {
 
   const { total, next, operation } = state;
   return (
-    <section>
+    <section className="cal">
       <h2>Let&apos;s Do Some Maths</h2>
       <div className="calculator">
         <div className="calculator-display" onChange={resultDisplay}>
