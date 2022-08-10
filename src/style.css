@@ -1,6 +1,9 @@
 body {
   width: 70%;
   margin: auto;
+  font-family: sans-serif;
+  background-color: gray;
+  color: white;
 }
 
 #app {

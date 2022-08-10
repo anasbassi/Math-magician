@@ -9,6 +9,10 @@ The math magician app is a single webapp built to perform mathemathical calculat
 - Javascript
 - Webpack
 
+## Live Demo
+
+  https://anasbassi.github.io/Math-magician/
+
 ### Setup
 
 > Open GitHub and go to my GitHub repository name: Math-magician.to clone.
