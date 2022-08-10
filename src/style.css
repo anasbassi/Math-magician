@@ -1,12 +1,41 @@
 body {
   width: 70%;
   margin: auto;
+  font-family: sans-serif;
+  background-color: gray;
+  color: white;
 }
 
 #app {
-  width: 80%;
+  width: 100%;
   margin: auto;
   padding: 20px;
+}
+
+.homeSection {
+  margin: 70px 3%;
+  font-size: 18px;
+}
+
+.homeSection h2 {
+  font-size: 40px;
+}
+
+.quoteContainer {
+  font-size: 22px;
+  margin-top: 70px;
+  text-align: center;
+}
+
+.cal {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 70px 0;
+}
+
+.cal h2 {
+  width: 50%;
 }
 
 .calculator {
