@@ -2,7 +2,6 @@ import React from 'react';
 import renderer from 'react-test-renderer';
 import Calculator from '../components/calculator';
 import Home from '../components/Home';
-import NavBar from '../components/NavBar';
 import Quote from '../components/Quote';
 
 describe('App component testing with snapshot', () => {
@@ -21,8 +20,4 @@ describe('App component testing with snapshot', () => {
     expect(tree).toMatchSnapshot();
   });
 
-  it('renders correctly', () => {
-    const tree = renderer.create(<NavBar />);
-    expect(tree).toMatchSnapshot();
-  });
 });
