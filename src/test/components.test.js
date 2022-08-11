@@ -19,5 +19,4 @@ describe('App component testing with snapshot', () => {
     const tree = renderer.create(<Quote />);
     expect(tree).toMatchSnapshot();
   });
-
 });
