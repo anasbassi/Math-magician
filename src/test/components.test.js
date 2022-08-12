@@ -4,7 +4,7 @@ import Calculator from '../components/calculator';
 import Home from '../components/Home';
 import Quote from '../components/Quote';
 
-describe('App component testing with snapshot', () => {
+describe('App component testing with snapshot.', () => {
   it('renders correctly', () => {
     const tree = renderer.create(<Calculator />);
     expect(tree).toMatchSnapshot();

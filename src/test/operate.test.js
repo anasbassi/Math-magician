@@ -1,6 +1,6 @@
 import operate from '../logic/operate';
 
-test('should take two numbers and an operation and returns the result', () => {
+test('should take two numbers, and an operation and returns the result', () => {
   expect(operate(1, 2, '+')).toBe('3');
   expect(operate(1, 2, '-')).toBe('-1');
   expect(operate(1, 2, 'x')).toBe('2');
